@@ -1,7 +1,4 @@
-take keycard
+take staff keycard
 south
 south
-unlock gate with keycard
-open gate
-south
-north
+x staff gate

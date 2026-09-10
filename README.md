@@ -1,32 +1,30 @@
-# Family Zoo — v07 — Locked Doors & Keys
+# Family Zoo — v07: Locked Doors & Keys
 
-A staff gate now blocks passage south until the player finds the keycard at the entrance and unlocks it. Covers the full locked-door stack: keys, LockableTrait, DoorTrait, and the via property on exits.
+A staff gate the player cannot pass until they find the keycard. The refusal message is a named phrase in the en-US catalog, not hardcoded English in the exit.
 
-Step 7 of the [Family Zoo](https://github.com/Johnesco/familyzoo) tutorial — a progressive walkthrough of the [Sharpee](https://sharpee.net) TypeScript interactive fiction engine, from a single room to a full multi-file story.
+Step 7 of sixteen in the [Family Zoo](https://github.com/Johnesco/familyzoo) tutorial for [Chord](https://sharpee.net/chord/), the authoring language of the [Sharpee](https://sharpee.net) interactive fiction engine.
 
-## What this step teaches
+## What this step adds
 
-- LockableTrait with keyId wiring a specific key to a specific lock
-- DoorTrait bridging two rooms bidirectionally
-- Exit via property so going checks the door state
-- The take, unlock, open, go player sequence
-- Ordinary items serving as keys — no special trait needed
+- `lockable with the staff keycard`
+- `south is blocked while the staff gate is closed: staff-gate-blocked`
+- `define phrases en-US` — the catalog of refusal keys
+- UNLOCK, LOCK and the messages the stdlib already knows
 
-## Playing
+## The source
 
-Open `play.html`, or preview the folder:
+The whole step is one file: [`familyzoo-v07.story`](./familyzoo-v07.story) — the step before it plus the ideas above. The chapter that walks through it is [`docs/v07-locked-doors-keys.md`](./docs/v07-locked-doors-keys.md).
 
-```bash
-python -m http.server 8000 --directory familyzoo-v07
-```
-
-## Building
-
-This is a **frozen 0.9.x TypeScript version**. The built player in this folder is the published artifact; it is re-laid from `browser/` by the workspace build:
+## Playing and testing
 
 ```bash
-python ../tools/build.py familyzoo-v07
-python C:/code/ifhub/tools/ship.py familyzoo-v07
+npx sharpee play
+npx sharpee test          # replays familyzoo-v07.tests.json
+python ../tools/build.py familyzoo-v07 --force
 ```
 
-The authoring tree for every version lives in the [familyzoo](https://github.com/Johnesco/familyzoo) repo.
+## Engine
+
+Pinned to `@sharpee/*` **5.3.0** (Chord 3.6.0), held there by an `overrides` block: 5.3.1 publishes broken subpath exports and breaks `sharpee test`.
+
+The 0.9.x TypeScript edition this replaced is kept in [`legacy/`](./legacy).

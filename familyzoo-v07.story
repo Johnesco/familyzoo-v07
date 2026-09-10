@@ -3,7 +3,7 @@ story
   authors:
     John Googol
   id: familyzoo-v07
-  ifid: DC93B455-20BF-4FAF-9AB2-43ADED247D6A
+  ifid: 18E80760-1792-47ED-83EB-2CE5BA8AC983
   story-version: 0.0.2
   description: Sharpee tutorial step 7 — `lockable with`, and exits blocked while a state holds.
 
@@ -43,19 +43,16 @@ create the Petting Zoo
   a room
   aka petting area, pen
 
-  A cheerful open-air enclosure that smells of warm hay and fur. A feed
-  dispenser is mounted on a post, and an info plaque is posted by the
-  gate. The main path is back to the west.
+  A cheerful open-air enclosure that smells of warm hay and fur. The
+  main path is back to the west.
 
 create the Aviary
   a room
   aka bird house, dome
 
-  You step inside a soaring mesh dome. Brilliantly colored parrots
-  chatter from rope perches, and a toucan eyes you curiously from a
-  branch overhead. A small waterfall splashes into a stone basin. An
-  info plaque hangs near the entrance. The gift shop is to the west. The
-  main path is back to the east.
+  You step inside a soaring mesh dome. A toucan eyes you curiously from a
+  branch overhead, and rope perches crisscross the space. A small
+  waterfall splashes into a stone basin. The main path is back to the east.
 
 create the Supply Room
   a room
@@ -63,8 +60,8 @@ create the Supply Room
   north is blocked while the staff gate is closed: staff-gate-blocked
 
   A cluttered storage room behind the staff gate. Metal shelves line the
-  walls. A cork board on the wall is covered with staff schedules. A
-  battered radio sits on one of the shelves. The staff gate leads back
+  walls. A cork board on the wall is covered with staff schedules. The
+  staff gate leads back north.
   north.
 
 create the Staff Parking Lot
