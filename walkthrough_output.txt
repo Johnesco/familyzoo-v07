@@ -3,6 +3,93 @@ Your family piles out of the car, buzzing with excitement — a whole day at the
 
 You can see a staff keycard, a zoo brochure, a zoo map, and a backpack here.
 
+> look
+Zoo Entrance
+You stand before the wrought-iron gates of the Willowbrook Family Zoo. A cheerful welcome sign arches over the entrance, and a small ticket booth sits to one side. A sturdy iron fence runs along either side of the gates. The main path leads south into the zoo grounds.
+
+You can see a staff keycard, a zoo brochure, a zoo map, and a backpack here.
+
+> x staff keycard
+A white plastic keycard with "WILLOWBROOK ZOO — STAFF ONLY" printed in blue.
+
+> i
+Your hands are empty.
+
+> x keycard
+A white plastic keycard with "WILLOWBROOK ZOO — STAFF ONLY" printed in blue.
+
+> x welcome sign
+A brightly painted wooden sign reads: "WELCOME TO WILLOWBROOK FAMILY ZOO."
+
+> x sign
+A brightly painted wooden sign reads: "WELCOME TO WILLOWBROOK FAMILY ZOO."
+
+> x ticket booth
+A small wooden booth with a "Self-Guided Tours" sign.
+
+> x booth
+A small wooden booth with a "Self-Guided Tours" sign.
+
+> x iron fence
+A tall wrought-iron fence with animal silhouettes.
+
+> x fence
+A tall wrought-iron fence with animal silhouettes.
+
+> x zoo brochure
+A glossy tri-fold brochure with "WILLOWBROOK FAMILY ZOO" on the cover.
+
+> read zoo brochure
+(first taking the zoo brochure)
+
+Taken.
+
+WILLOWBROOK FAMILY ZOO — Your Guide
+
+EXHIBITS:
+  Petting Zoo — East from Main Path
+  Aviary — West from Main Path
+  Gift Shop — West from Aviary
+  Nocturnal Animals — Staff Area
+
+"Where every visit is a wild adventure!"
+
+> i
+You are carrying:
+
+a zoo brochure
+
+> x brochure
+A glossy tri-fold brochure with "WILLOWBROOK FAMILY ZOO" on the cover.
+
+> x zoo map
+A colorful folding map of the Willowbrook Family Zoo.
+
+> i
+You are carrying:
+
+a zoo brochure
+
+> x map
+A colorful folding map of the Willowbrook Family Zoo.
+
+> x backpack
+A small red canvas backpack.
+
+> look in backpack
+The backpack is empty.
+
+> look in backpack
+The backpack is empty.
+
+> i
+You are carrying:
+
+a zoo brochure
+
+> x rucksack
+A small red canvas backpack.
+
 > take staff keycard
 Taken.
 
@@ -12,6 +99,76 @@ A wide gravel path winds through the heart of the zoo. Colorful direction signs 
 
 You can see a souvenir penny and a lunchbox here.
 
+> x staff gate
+A sturdy metal gate with a "STAFF ONLY" sign.
+
+The staff gate is set into the fence.
+
+> x gate
+A sturdy metal gate with a "STAFF ONLY" sign.
+
+The staff gate is set into the fence.
+
+> x direction signs
+Arrow signs: PETTING ZOO (east), AVIARY (west), EXIT (north).
+
+> x signs
+Arrow signs: PETTING ZOO (east), AVIARY (west), EXIT (north).
+
+> x flower beds
+Tidy beds of marigolds and petunias.
+
+> x flowers
+Tidy beds of marigolds and petunias.
+
+> x souvenir penny
+A shiny copper penny.
+
+> i
+You are carrying:
+
+a zoo brochure, staff keycard
+
+> x penny
+A shiny copper penny.
+
+> x park bench
+A sturdy park bench painted forest green.
+
+> look on park bench
+I don't understand that.
+
+> x bench
+A sturdy park bench painted forest green.
+
+> x lunchbox
+A dented metal lunchbox decorated with cartoon zoo animals.
+
+> look in lunchbox
+The lunchbox is closed.
+
+> look in lunchbox
+The lunchbox is closed.
+
+> i
+You are carrying:
+
+a zoo brochure, staff keycard
+
+> x lunch box
+A dented metal lunchbox decorated with cartoon zoo animals.
+
+> x juice box
+You can't see any such thing.
+
+> i
+You are carrying:
+
+a zoo brochure, staff keycard
+
+> x juice
+You can't see any such thing.
+
 > south
 The staff gate is closed.
 
@@ -19,3 +176,235 @@ The staff gate is closed.
 A sturdy metal gate with a "STAFF ONLY" sign.
 
 The staff gate is set into the fence.
+
+> east
+Petting Zoo
+A cheerful open-air enclosure that smells of warm hay and fur. The main path is back to the west.
+
+> x hay bale
+A large round bale of golden hay.
+
+> x hay
+A large round bale of golden hay.
+
+> west
+Main Path
+A wide gravel path winds through the heart of the zoo. Colorful direction signs point every which way. A park bench sits beside the path. To the east, the petting zoo. To the west, the aviary. A staff gate blocks the path to the south. The entrance is back to the north.
+
+You can see a souvenir penny and a lunchbox here.
+
+> west
+Aviary
+You step inside a soaring mesh dome. A toucan eyes you curiously from a branch overhead, and rope perches crisscross the space. A small waterfall splashes into a stone basin. The main path is back to the east.
+
+> x toucan
+A Toco toucan with an enormous orange-and-black bill.
+
+> x toco toucan
+A Toco toucan with an enormous orange-and-black bill.
+
+> x waterfall
+A gentle artificial waterfall cascading into a stone basin.
+
+> x water
+A gentle artificial waterfall cascading into a stone basin.
+
+> x rope perches
+Thick sisal ropes strung between wooden posts.
+
+> x perches
+Thick sisal ropes strung between wooden posts.
+
+> east
+Main Path
+A wide gravel path winds through the heart of the zoo. Colorful direction signs point every which way. A park bench sits beside the path. To the east, the petting zoo. To the west, the aviary. A staff gate blocks the path to the south. The entrance is back to the north.
+
+You can see a souvenir penny and a lunchbox here.
+
+> open staff gate
+You open the staff gate.
+
+> south
+Supply Room
+A cluttered storage room behind the staff gate. Metal shelves line the walls. A cork board on the wall is covered with staff schedules. The staff gate leads back north. north.
+
+> x metal shelves
+Industrial metal shelving units stacked with supplies.
+
+> x shelves
+Industrial metal shelving units stacked with supplies.
+
+> x cork board
+A cork board with staff schedules. A note in red marker: "DON'T FORGET: nocturnal exhibit lights need new batteries!"
+
+> x board
+A cork board with staff schedules. A note in red marker: "DON'T FORGET: nocturnal exhibit lights need new batteries!"
+
+> open staff gate
+You can't see any such thing.
+
+> north
+Main Path
+A wide gravel path winds through the heart of the zoo. Colorful direction signs point every which way. A park bench sits beside the path. To the east, the petting zoo. To the west, the aviary. A staff gate blocks the path to the south. The entrance is back to the north.
+
+You can see a souvenir penny and a lunchbox here.
+
+> north
+Zoo Entrance
+You stand before the wrought-iron gates of the Willowbrook Family Zoo. A cheerful welcome sign arches over the entrance, and a small ticket booth sits to one side. A sturdy iron fence runs along either side of the gates. The main path leads south into the zoo grounds.
+
+You can see a zoo map and a backpack here.
+
+> take staff keycard
+You already have the staff keycard.
+
+> drop staff keycard
+Dropped.
+
+> take welcome sign
+The welcome sign is fixed in place.
+
+> take ticket booth
+The ticket booth is fixed in place.
+
+> take iron fence
+The iron fence is fixed in place.
+
+> take zoo brochure
+You already have the zoo brochure.
+
+> drop zoo brochure
+Dropped.
+
+> take zoo map
+Taken.
+
+> drop zoo map
+Dropped.
+
+> open backpack
+The backpack can't be opened.
+
+> take backpack
+Taken.
+
+> drop backpack
+Dropped.
+
+> south
+Main Path
+A wide gravel path winds through the heart of the zoo. Colorful direction signs point every which way. A park bench sits beside the path. To the east, the petting zoo. To the west, the aviary. A staff gate blocks the path to the south. The entrance is back to the north.
+
+You can see a souvenir penny and a lunchbox here.
+
+> open staff gate
+The staff gate is already open.
+
+> close staff gate
+You close the staff gate.
+
+> open staff gate
+You open the staff gate.
+
+> unlock staff gate
+The staff gate is already unlocked.
+
+> open staff gate
+The staff gate is already open.
+
+> take staff gate
+The staff gate is fixed in place.
+
+> take direction signs
+The direction signs are fixed in place.
+
+> take flower beds
+The flower beds are fixed in place.
+
+> take souvenir penny
+Taken.
+
+> drop souvenir penny
+Dropped.
+
+> take park bench
+The park bench is fixed in place.
+
+> open lunchbox
+You open the lunchbox.
+
+In the lunchbox you see a juice box.
+
+> close lunchbox
+You close the lunchbox.
+
+> open lunchbox
+You open the lunchbox.
+
+In the lunchbox you see a juice box.
+
+> open lunchbox
+The lunchbox is already open.
+
+> take lunchbox
+Taken.
+
+> drop lunchbox
+Dropped.
+
+> take juice box
+You take the juice box from the lunchbox.
+
+> drop juice box
+Dropped.
+
+> east
+Petting Zoo
+A cheerful open-air enclosure that smells of warm hay and fur. The main path is back to the west.
+
+> take hay bale
+The hay bale is fixed in place.
+
+> west
+Main Path
+A wide gravel path winds through the heart of the zoo. Colorful direction signs point every which way. A park bench sits beside the path. To the east, the petting zoo. To the west, the aviary. A staff gate blocks the path to the south. The entrance is back to the north.
+
+You can see a souvenir penny, a lunchbox, and a juice box here.
+
+> west
+Aviary
+You step inside a soaring mesh dome. A toucan eyes you curiously from a branch overhead, and rope perches crisscross the space. A small waterfall splashes into a stone basin. The main path is back to the east.
+
+> take toucan
+The toucan is fixed in place.
+
+> take waterfall
+The waterfall is fixed in place.
+
+> take rope perches
+The rope perches are fixed in place.
+
+> east
+Main Path
+A wide gravel path winds through the heart of the zoo. Colorful direction signs point every which way. A park bench sits beside the path. To the east, the petting zoo. To the west, the aviary. A staff gate blocks the path to the south. The entrance is back to the north.
+
+You can see a souvenir penny, a lunchbox, and a juice box here.
+
+> open staff gate
+The staff gate is already open.
+
+> south
+Supply Room
+A cluttered storage room behind the staff gate. Metal shelves line the walls. A cork board on the wall is covered with staff schedules. The staff gate leads back north. north.
+
+> take metal shelves
+The metal shelves are fixed in place.
+
+> take cork board
+The cork board is fixed in place.
+
+> score
+This isn't that kind of game.
+
+> inventory
+Your hands are empty.
