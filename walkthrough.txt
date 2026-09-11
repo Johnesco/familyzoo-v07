@@ -1,6 +1,5 @@
 look
 x staff keycard
-i
 x keycard
 x welcome sign
 x sign
@@ -10,15 +9,11 @@ x iron fence
 x fence
 x zoo brochure
 read zoo brochure
-i
 x brochure
 x zoo map
-i
 x map
 x backpack
 look in backpack
-look in backpack
-i
 x rucksack
 take staff keycard
 south
@@ -29,18 +24,14 @@ x signs
 x flower beds
 x flowers
 x souvenir penny
-i
 x penny
 x park bench
 look on park bench
 x bench
 x lunchbox
 look in lunchbox
-look in lunchbox
-i
 x lunch box
 x juice box
-i
 x juice
 south
 x staff gate
@@ -62,7 +53,6 @@ x metal shelves
 x shelves
 x cork board
 x board
-open staff gate
 north
 north
 take staff keycard
@@ -110,4 +100,3 @@ south
 take metal shelves
 take cork board
 score
-inventory
