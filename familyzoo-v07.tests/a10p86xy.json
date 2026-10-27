@@ -1,10 +1,6 @@
 {
-  "version": 1,
-  "story": "familyzoo-v07",
-  "seed": 42,
   "cards": [
     {
-      "type": "opening",
       "assertions": {
         "channels": [
           {
@@ -16,54 +12,62 @@
             "is": "Sharpee tutorial step 7 — `lockable with`, and exits blocked while a state holds."
           }
         ]
-      }
+      },
+      "id": "bewz07zd",
+      "type": "opening"
     },
     {
-      "type": "boot",
       "assertions": {
         "contains": [
           "Zoo Entrance",
           "Your family piles out of the car, buzzing with excitement — a whole day at the zoo! You st"
         ]
-      }
+      },
+      "id": "c89ovma7",
+      "type": "boot"
     },
     {
-      "type": "turn",
-      "command": "take staff keycard",
       "assertions": {
         "contains": [
           "Taken."
         ]
-      }
+      },
+      "command": "take staff keycard",
+      "id": "ckp2kyrw",
+      "type": "turn"
     },
     {
-      "type": "turn",
-      "command": "south",
       "assertions": {
         "contains": [
           "Main Path",
           "A wide gravel path winds through the heart of the zoo. Colorful direction signs point ever"
         ]
-      }
+      },
+      "command": "south",
+      "id": "xyx2mf5g",
+      "type": "turn"
     },
     {
-      "type": "turn",
-      "command": "south",
       "assertions": {
         "contains": [
           "The staff gate is closed."
         ]
-      }
+      },
+      "command": "south",
+      "id": "jw9xp22f",
+      "type": "turn"
     },
     {
-      "type": "turn",
-      "command": "x staff gate",
       "assertions": {
         "contains": [
           "A sturdy metal gate with a \"STAFF ONLY\" sign.",
           "The staff gate is set into the fence."
         ]
-      }
+      },
+      "command": "x staff gate",
+      "id": "21j5ah6v",
+      "type": "turn"
     }
-  ]
+  ],
+  "id": "a10p86xy"
 }
