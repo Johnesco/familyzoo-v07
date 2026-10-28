@@ -13,7 +13,7 @@ Step 7 of sixteen in the [Family Zoo](https://github.com/Johnesco/familyzoo) tut
 
 ## The source
 
-The whole step is one file: [`familyzoo-v07.story`](./familyzoo-v07.story) — the step before it plus the ideas above. The chapter that walks through it is [`docs/v07-locked-doors-keys.md`](./docs/v07-locked-doors-keys.md).
+The whole step is one file: [`familyzoo-v07.story`](./familyzoo-v07.story) — the step before it plus the ideas above. Where it sits in the trail is on the [group page](https://johnesco.github.io/familyzoo/#familyzoo-v07).
 
 ## Playing and testing
 
