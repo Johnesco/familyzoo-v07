@@ -11,20 +11,14 @@
             "id": "info.description",
             "is": "Sharpee tutorial step 7 — `lockable with`, and exits blocked while a state holds."
           }
-        ]
-      },
-      "id": "bewz07zd",
-      "type": "opening"
-    },
-    {
-      "assertions": {
+        ],
         "contains": [
           "Zoo Entrance",
           "Your family piles out of the car, buzzing with excitement — a whole day at the zoo! You st"
         ]
       },
-      "id": "c89ovma7",
-      "type": "boot"
+      "id": "bewz07zd",
+      "type": "opening"
     },
     {
       "assertions": {
